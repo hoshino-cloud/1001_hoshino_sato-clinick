@@ -16,7 +16,7 @@
 
 /* 人物が見やすくなるよう、各画像の表示位置を調整 */
 .news-photo{object-position:0% center}
-.news-list a{display:inline-block;width:15em;border-bottom:1px solid currentColor;text-decoration:none}
+.news-list a{display:inline-block;width:100%;border-bottom:1px solid currentColor;text-decoration:none}
 .news-list a:hover{text-decoration:none}
 .greeting-photo{object-position:75% center}
 .greeting-section{padding:0;display:flex;align-items:center}
